@@ -1,2 +1,2 @@
-# jcu
-The Java Community Universe project
+# Java Community Universe
+The repository for the Java Community Universe project
